@@ -5,7 +5,7 @@
 
 <!-- Dòng chữ gõ động -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Xin+chào,+mình+là+Công+👋;Software+Developer;Luôn+học+hỏi+mỗi+ngày" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Xin+chào,+mình+là+Công+👋;Frontend+Developer;Luôn+học+hỏi+mỗi+ngày" />
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 </p>
 
 ## 🙋‍♂️ Về mình
-- 🔭 Đang làm: ...
-- 🌱 Đang học: ...
-- 💬 Hỏi mình về: ...
-- 📫 Liên hệ: your-email@gmail.com
+- 🔭 Đang làm: Frontend Developer
+- 🌱 Đang học: IT
+- 💬 Hỏi mình về: HTML, CSS, JavaScript, React
+- 📫 Liên hệ: congpx.ptit@gmail.com
 - 📍 Việt Nam
 
 ## 🛠️ Công nghệ
@@ -48,7 +48,7 @@
   <a href="https://github.com/congpx-udu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://facebook.com/your-link"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:congpx.ptit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- Footer -->
